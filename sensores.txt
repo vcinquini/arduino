@@ -1,0 +1,39 @@
+Na compra deste kit, receba:
+ 
+1 x Módulo joystick com 2 eixos e 1 botão
+1 x Módulo relé de 1 canal
+1 x Módulo sensor de som
+1 x Módulo sensor de som sensível
+1 x Módulo seguidor de linha
+1 x Módulo detector de obstáculos
+1 x Módulo detector de chama
+1 x Módulo sensor de efeito hall linear
+1 x Módulo sensor de toque
+1 x Módulo sensor de temperatura digital com  termistor
+1 x Módulo buzzer ativo
+1 x Módulo buzzer passivo
+1 x Módulo LED RGB 5mm
+1 x Módulo LED RGB SMD
+1 x Módulo LED RG 5mm
+1 x Módulo LED RG 3mm
+1 x Módulo chave magnética digital (reed-switch)
+1 x Módulo chave magnética miniatura (reed-switch)
+1 x Módulo sensor de batida de coração
+1 x Módulo LED RGB 5mm automático
+1 x Módulo emissor de Laser
+1 x Módulo botão
+1 x Módulo sensor de choque
+1 x Módulo codificador rotativo
+1 x Módulo LED acionado por sensor de mercúrio
+1 x Módulo sensor de inclinação
+1 x Módulo sensor de movimento
+1 x Módulo sensor foto resistor LDR
+1 x Módulo sensor de umidade e temperatura DHT11
+1 x Módulo sensor de efeito hall analógico
+1 x Módulo sensor de efeito hall magnético
+1 x Módulo sensor de temperatura digital DS18B20
+1 x Módulo sensor de temperatura termistor
+1 x Módulo LED IR 5mm
+1 x Módulo receptor IR
+1 x Módulo sensor de impacto
+1 x Módulo sensor de bloqueio de luz 
