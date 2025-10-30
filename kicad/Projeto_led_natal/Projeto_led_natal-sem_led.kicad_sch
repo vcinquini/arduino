@@ -4,9 +4,6 @@
 	(generator_version "8.0")
 	(uuid "946707c7-001a-4992-8064-04d2c502e547")
 	(paper "A4")
-	(title_block
-		(title "Pisca de Natal - Sem Led")
-	)
 	(lib_symbols
 		(symbol "4xxx:4017"
 			(pin_names
@@ -2723,16 +2720,6 @@
 	)
 	(wire
 		(pts
-			(xy 103.505 56.515) (xy 103.505 66.675)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "05de2a89-f54c-48cb-a064-e0ea97f2b9c4")
-	)
-	(wire
-		(pts
 			(xy 129.54 82.55) (xy 133.985 82.55)
 		)
 		(stroke
@@ -2763,7 +2750,7 @@
 	)
 	(wire
 		(pts
-			(xy 72.39 61.595) (xy 64.77 61.595)
+			(xy 79.375 61.595) (xy 71.755 61.595)
 		)
 		(stroke
 			(width 0)
@@ -2853,7 +2840,7 @@
 	)
 	(wire
 		(pts
-			(xy 83.185 66.675) (xy 83.185 82.55)
+			(xy 83.185 65.405) (xy 83.185 82.55)
 		)
 		(stroke
 			(width 0)
@@ -2943,7 +2930,7 @@
 	)
 	(wire
 		(pts
-			(xy 92.71 51.435) (xy 107.315 51.435)
+			(xy 99.695 51.435) (xy 107.315 51.435)
 		)
 		(stroke
 			(width 0)
@@ -3073,7 +3060,7 @@
 	)
 	(wire
 		(pts
-			(xy 83.185 66.675) (xy 103.505 66.675)
+			(xy 83.185 65.405) (xy 106.68 65.405)
 		)
 		(stroke
 			(width 0)
@@ -3123,16 +3110,6 @@
 	)
 	(wire
 		(pts
-			(xy 103.505 56.515) (xy 92.71 56.515)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "80504eab-1264-4483-87a7-7ad77d30bbe0")
-	)
-	(wire
-		(pts
 			(xy 149.225 86.995) (xy 149.225 98.425)
 		)
 		(stroke
@@ -3153,7 +3130,7 @@
 	)
 	(wire
 		(pts
-			(xy 69.215 51.435) (xy 72.39 51.435)
+			(xy 76.2 51.435) (xy 79.375 51.435)
 		)
 		(stroke
 			(width 0)
@@ -3290,6 +3267,16 @@
 			(type default)
 		)
 		(uuid "a936768c-ec49-4599-8505-fed52be7f82c")
+	)
+	(wire
+		(pts
+			(xy 99.695 56.515) (xy 106.68 56.515)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "aba1138b-3f38-42ce-bc87-ddd37f9251a7")
 	)
 	(wire
 		(pts
@@ -3443,13 +3430,23 @@
 	)
 	(wire
 		(pts
-			(xy 92.71 61.595) (xy 107.315 61.595)
+			(xy 99.695 61.595) (xy 107.315 61.595)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "e37810a7-4d2b-4c19-8c56-96b8c9ce2199")
+	)
+	(wire
+		(pts
+			(xy 106.68 65.405) (xy 106.68 56.515)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e64d7e8d-a23b-4382-8cb1-9e76e5b30348")
 	)
 	(wire
 		(pts
@@ -3553,7 +3550,7 @@
 	)
 	(global_label "SA"
 		(shape input)
-		(at 92.71 61.595 0)
+		(at 99.695 61.595 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3562,7 +3559,7 @@
 		)
 		(uuid "423d4a16-17a9-4836-9bcd-356b025d0333")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 92.71 61.595 0)
+			(at 99.695 61.595 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3573,7 +3570,7 @@
 	)
 	(global_label "AA"
 		(shape input)
-		(at 72.39 51.435 180)
+		(at 79.375 51.435 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3582,7 +3579,7 @@
 		)
 		(uuid "93ac8915-2155-4922-9ebc-de6115eb8996")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 72.39 51.435 0)
+			(at 79.375 51.435 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3593,7 +3590,7 @@
 	)
 	(global_label "SB"
 		(shape input)
-		(at 92.71 51.435 0)
+		(at 99.695 51.435 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3602,7 +3599,7 @@
 		)
 		(uuid "a2ba9af8-3855-435c-b8d4-d5df2ecc81d2")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 92.71 51.435 0)
+			(at 99.695 51.435 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3613,7 +3610,7 @@
 	)
 	(global_label "AB"
 		(shape input)
-		(at 72.39 61.595 180)
+		(at 79.375 61.595 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3622,7 +3619,7 @@
 		)
 		(uuid "e51c2bde-2972-420f-9d1a-63e28cd4a197")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 72.39 61.595 0)
+			(at 79.375 61.595 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3633,7 +3630,7 @@
 	)
 	(hierarchical_label "SB"
 		(shape input)
-		(at 92.71 51.435 0)
+		(at 99.695 51.435 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3780,7 +3777,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_DPST_x2")
-		(at 64.135 51.435 0)
+		(at 71.12 51.435 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3789,7 +3786,7 @@
 		(fields_autoplaced yes)
 		(uuid "16a38a8d-4c0b-40f6-a48b-eafae71dcae4")
 		(property "Reference" "SW1"
-			(at 64.135 47.625 0)
+			(at 71.12 47.625 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3797,7 +3794,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 64.135 47.625 0)
+			(at 71.12 47.625 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3806,7 +3803,7 @@
 			)
 		)
 		(property "Footprint" "Button_Switch_SMD:SW_DIP_SPSTx01_Slide_6.7x4.1mm_W6.73mm_P2.54mm_LowProfile_JPin"
-			(at 64.135 51.435 0)
+			(at 71.12 51.435 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3815,7 +3812,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 64.135 51.435 0)
+			(at 71.12 51.435 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3824,7 +3821,7 @@
 			)
 		)
 		(property "Description" "Single Pole Single Throw (SPST) switch, separate symbol"
-			(at 64.135 51.435 0)
+			(at 71.12 51.435 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5093,7 +5090,7 @@
 	)
 	(symbol
 		(lib_id "Device:Fuse_Small")
-		(at 62.23 61.595 0)
+		(at 69.215 61.595 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5101,7 +5098,7 @@
 		(dnp no)
 		(uuid "72210363-8289-4029-a318-0a4175f58952")
 		(property "Reference" "F1"
-			(at 62.23 56.515 0)
+			(at 69.215 56.515 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5109,7 +5106,7 @@
 			)
 		)
 		(property "Value" "500mA"
-			(at 62.23 59.055 0)
+			(at 69.215 59.055 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5117,7 +5114,7 @@
 			)
 		)
 		(property "Footprint" "Fuse:Fuse_1812_4532Metric"
-			(at 60.325 64.77 0)
+			(at 67.31 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5126,7 +5123,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 62.23 61.595 0)
+			(at 69.215 61.595 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5135,7 +5132,7 @@
 			)
 		)
 		(property "Description" "Fuse, small symbol"
-			(at 62.23 61.595 0)
+			(at 69.215 61.595 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5312,7 +5309,7 @@
 	)
 	(symbol
 		(lib_id "Device:Transformer_1P_SS")
-		(at 82.55 56.515 0)
+		(at 89.535 56.515 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5321,7 +5318,7 @@
 		(fields_autoplaced yes)
 		(uuid "90e1c586-2a78-464e-b8e5-648e66ce5499")
 		(property "Reference" "T1"
-			(at 82.5627 46.355 0)
+			(at 89.5477 46.355 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5329,7 +5326,7 @@
 			)
 		)
 		(property "Value" "12+12 500mA"
-			(at 82.5627 48.895 0)
+			(at 89.5477 48.895 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5337,7 +5334,7 @@
 			)
 		)
 		(property "Footprint" "Transformer_SMD:Transformer_MACOM_SM-22"
-			(at 82.55 56.515 0)
+			(at 89.535 56.515 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5346,7 +5343,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 82.55 56.515 0)
+			(at 89.535 56.515 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5355,7 +5352,7 @@
 			)
 		)
 		(property "Description" "Transformer, single primary, split secondary"
-			(at 82.55 56.515 0)
+			(at 89.535 56.515 0)
 			(effects
 				(font
 					(size 1.27 1.27)
