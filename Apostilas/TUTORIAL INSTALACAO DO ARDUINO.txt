@@ -1,0 +1,53 @@
+1- <<<<<<<<<<<<<<TUTORIAL PARA INSTALAÇÃO DO ARDUINO UNO>>>>>>>>>>>>>>
+
+
+1- Deve-se copiar a pasta Arduino-022 (programa com o compilador do arduino) para a unidade C: ;
+
+2- apos a copia da pasta conectar o arduino UNO no computador;
+
+3- quando a janela para instalaçao de um novo dispositivo aparecer, deve-se escolher opção para instalar o driver direto de uma das pastas do sistema.
+
+4- marcar a opção verificar pasta do sistema e escolher o destino da pasta Arduino-022 que esta na unidade C:;
+
+OBSERVAÇÃO: quando selecionar na pasta Arduino-022, deve-se escolher a subpasta Drivers que esta localizada dentro desta, o sistema ira encontrar o driver
+ FTD que esta localizado na pasta e instalar automaticamente.
+5- apos a instalação do driver FTD o sistema ira NOVAMENTE pedir
+ uma nova instalaçao de driver e desta vez sera do cabo USB, basta fazer o MESMO procedimento citado acima que o sistema ira instalar automaticamente.
+
+6- Se necessario instalar o Programa JAVA que ja esta com o SETUP nesta pasta TUTORIAL.
+
+7- apos estes procedimentos o arduino UNo estara instalado,agora so executar o programa "arduino" para compilar seus futuros codigos.
+		
+	<<<<<<<<<<<<IMPORTANTE>>>>>>>>>
+
+1- O sistema ira pedir a autorizaçao de ADMINISTRADOR, favor pedir presença de um estagiario para somente digitar a senha.
+
+2- Possivelmente o programa "arduino" usado para compilar nao rode em algumas maquinas pois é necessario o JAVA, O SETUP do JAVA ja 
+se encontra baixado nesta PASTA tutorial basta instalar.
+
+			
+<<<<<<<<<<<<---------->>>>>>>>>
+
+2- <<<<<<<<<<<<<<TUTORIAL PARA INSTALAÇÃO DO ARDUINO DUEMILENOVE>>>>>>>>>>
+
+
+1- Deve-se copiar a pasta Arduino-022 (programa com o compilador do arduino) para a unidade C: 
+;
+2- apos a copia da pasta, executar o arquivo-driver CDM20802_Setup localizado nesta pasta TUTORIAL.
+(o programa ira abrir uma janela da prompt e a instalaçao sera feita em SEGUNDOS)
+
+3- apos a instalaçao deste arquivo-driver deve-se apenas conectar o Arduino Duemilenove no computador;
+
+4- Se necessario instalar o Programa JAVA que ja esta com o SETUP nesta pasta TUTORIAL.
+
+5- agora so executar o programa "arduino" para compilaçao da sua programação.
+			
+<<<<<<<<<<<<IMPORTANTE>>>>>>>>>
+
+1- O sistema ira pedir a autorizaçao de ADMINISTRADOR, favor pedir presença de um estagiario para somente digitar a senha.
+
+2- Possivelmente o programa "arduino" usado para compilar nao rode em algumas maquinas pois é necessario o JAVA, O SETUP do JAVA ja se encontra baixado 
+nesta PASTA tutorial basta instalar.
+
+			
+<<<<<<<<---------->>>>>>>>>

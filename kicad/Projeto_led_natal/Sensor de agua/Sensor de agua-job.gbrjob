@@ -1,0 +1,85 @@
+{
+  "Header": {
+    "GenerationSoftware": {
+      "Vendor": "KiCad",
+      "Application": "Pcbnew",
+      "Version": "8.0.6"
+    },
+    "CreationDate": "2024-11-29T21:51:42-03:00"
+  },
+  "GeneralSpecs": {
+    "ProjectId": {
+      "Name": "Sensor de agua",
+      "GUID": "53656e73-6f72-4206-9465-20616775612e",
+      "Revision": "rev?"
+    },
+    "Size": {
+      "X": 40.3606,
+      "Y": 47.8688
+    },
+    "LayerNumber": 2,
+    "BoardThickness": 1.6,
+    "Finish": "None"
+  },
+  "DesignRules": [
+    {
+      "Layers": "Outer",
+      "PadToPad": 0.2,
+      "PadToTrack": 0.2,
+      "TrackToTrack": 0.2,
+      "MinLineWidth": 0.2
+    }
+  ],
+  "FilesAttributes": [
+    {
+      "Path": "Sensor de agua-F_Silkscreen.gbr",
+      "FileFunction": "Legend,Top",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "Sensor de agua-Edge_Cuts.gbr",
+      "FileFunction": "Profile",
+      "FilePolarity": "Positive"
+    }
+  ],
+  "MaterialStackup": [
+    {
+      "Type": "Legend",
+      "Name": "Top Silk Screen"
+    },
+    {
+      "Type": "SolderPaste",
+      "Name": "Top Solder Paste"
+    },
+    {
+      "Type": "SolderMask",
+      "Name": "Top Solder Mask"
+    },
+    {
+      "Type": "Copper",
+      "Name": "F.Cu"
+    },
+    {
+      "Type": "Dielectric",
+      "Material": "FR4",
+      "Name": "F.Cu/B.Cu",
+      "Notes": "Type: dielectric layer 1 (from F.Cu to B.Cu)"
+    },
+    {
+      "Type": "Copper",
+      "Name": "B.Cu"
+    },
+    {
+      "Type": "SolderMask",
+      "Name": "Bottom Solder Mask"
+    },
+    {
+      "Type": "SolderPaste",
+      "Name": "Bottom Solder Paste"
+    },
+    {
+      "Type": "Legend",
+      "Name": "Bottom Silk Screen"
+    }
+  ]
+}

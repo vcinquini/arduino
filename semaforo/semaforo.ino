@@ -12,7 +12,7 @@ void setup() {
     pinMode(ledVermelhoCarro, OUTPUT);
     pinMode(ledVerdePedestre, OUTPUT);
     pinMode(ledVermelhoPedestre, OUTPUT);
-    pinMode(buzz, OUTPUT); //Definindo o pino buzzer como de saída. çlllllllllllllllll
+    pinMode(buzz, OUTPUT); //Definindo o pino buzzer como de saída.
     pinMode(botao, INPUT_PULLUP);
 
     // Estado inicial do semáforo
